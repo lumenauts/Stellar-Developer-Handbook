@@ -2,7 +2,7 @@
 
 This repository is home to answers to frequently asked questions (FAQs) about the Stellar network. These docs will feed into Lumenauts.com and will be on display at a later date.
 
-Read Stellar Developer's Handbook [here](./stellar-developers-handbook/index).
+Read Stellar Developer's Handbook in Markdown format [here](./stellar-developers-handbook/index.md).
 
 ## How to write answers
 Answers to FAQs are written in Markdown format. For an introduction to Markdown, take a look at [Github's Mastering Markdown Guide](https://guides.github.com/features/mastering-markdown/).

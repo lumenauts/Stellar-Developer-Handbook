@@ -25,4 +25,4 @@ When you issue an asset, it is important to provide clear information about what
 4. [Wikipedia - Fully qualified domain names](https://en.wikipedia.org/wiki/Fully_qualified_domain_name).
 5. [Enable CORS](https://enable-cors.org/server.html)
 6. [Stellar StackExchange - Asset not verified](https://stellar.stackexchange.com/q/1378/366).
-7. [Table of Contents](../index)
+7. [Table of Contents](../index.md)

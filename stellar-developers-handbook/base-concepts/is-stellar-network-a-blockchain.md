@@ -16,4 +16,4 @@ So we can safely assume that data on the blockchain is legitimate, having been v
 1. [Basics explainers from Stellar.org](https://www.stellar.org/how-it-works/stellar-basics/explainers/).
 2. [Stellar Guides - Ledger](https://www.stellar.org/developers/guides/concepts/ledger.html).
 3. [Stellar StackExchange - Is Stellar platform a blockchain?](https://stellar.stackexchange.com/q/1584/365).
-4. [Table of Contents](../index)
+4. [Table of Contents](../index.md)
